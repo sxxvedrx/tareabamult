@@ -1,0 +1,14 @@
+body {
+   
+    background-image: url("../images/patas.jpg");
+    backdrop-filter: blur(6px);
+    
+  }
+  .contenedor{
+    
+    display: inline-block;
+    padding:10px;
+    box-sizing: border-box;
+    
+  }
+ 

@@ -11,4 +11,20 @@ body {
     box-sizing: border-box;
     
   }
+
+  .form {
+    width: 50%;
+    max-width: 300px;
+    
+  }
+  
+  .form input {
+    width: 90%;
+    height: 30px;
+    margin: 0.5rem;
+  }
+  
+  
+
+  
  
